@@ -126,7 +126,7 @@ A complete set of **HTML notes and practice projects**, documenting my frontend 
 <div align="center">
 
 <a href="https://www.instagram.com/jerry_boy_658" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@cyber__vishucodex-7dd3fc?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Instagram-@jerry_boy_658-7dd3fc?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0f172a" />
 </a>
 
 </div>
