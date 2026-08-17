@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** and an aspiring **Frontend Web Developer**, currently building my foundations in **Python, C, and C++** while designing clean, visually engaging interfaces with **HTML & CSS**. I enjoy experimenting with UI effects and turning small ideas into working projects — you can follow my build-in-public journey on Instagram [@cyber_vishucodex](https://www.instagram.com/cyber_vishucodex).
+I'm a **Computer Science student** and an aspiring **Frontend Web Developer**, currently building my foundations in **Python, C, and C++** while designing clean, visually engaging interfaces with **HTML & CSS**. I enjoy experimenting with UI effects and turning small ideas into working projects — you can follow my build-in-public journey on Instagram [@cyber_vishucodex](https://www.instagram.com/jerry_boy_658).
 
 ```ts
 const vishal = {
