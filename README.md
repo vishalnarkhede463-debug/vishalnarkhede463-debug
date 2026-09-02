@@ -26,10 +26,10 @@ I'm a **Computer Science student** and an aspiring **Frontend Web Developer**, c
 ```ts
 const vishal = {
   role: "CS Student | Frontend Web Developer",
-  languages: ["Python", "C", "C++"],
+  languages: ["Python", "C", "C++", "Java", "HTML", "CSS"],
   frontend: ["HTML", "CSS"],
   launchedProjects: ["css-image-effects", "HTML-Notes"],
-  certifications: [],
+  certifications: ["Python", "C", ,"HTML", "CSS ],
   currentFocus: "Strengthening core programming + frontend fundamentals",
   openTo: "Frontend Developer Roles · Internships · Collaborations"
 } as const;
