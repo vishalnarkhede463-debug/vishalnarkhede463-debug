@@ -383,11 +383,16 @@ I'm interested in:
 <img src="https://img.shields.io/badge/GitHub-vishalnarkhede463--debug-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617">
 </a>
 
+<a href="https://www.linkedin.com/in/vishalnarkhede463">
+<img src="https://img.shields.io/badge/LinkedIn-Vishal%20Narkhede-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617">
+</a>
+
 <a href="https://www.instagram.com/jerry_boy_658">
 <img src="https://img.shields.io/badge/Instagram-@jerry__boy__658-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=020617">
 </a>
 
 </div>
+
 
 ---
 
