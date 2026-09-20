@@ -1,140 +1,327 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=250&section=header&text=Hey,%20I'm%20Vishal%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20Student%20•%20Frontend%20Web%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<!-- HEADER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=230&section=header&text=Hey%2C%20I'm%20Vishal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer&descAlignY=60&descSize=19" width="100%"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=CS+Student+%7C+Frontend+Web+Developer;Crafting+Clean+UIs+with+HTML+%26+CSS;Sharpening+Fundamentals+in+Python%2C+C%2C+C%2B%2B;Open+to+Frontend+Roles+%26+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Frontend+Web+Developer+%F0%9F%8C%90;Building+Modern+%26+Interactive+Websites+%E2%9C%A8;Learning+Python%2C+C%2C+C%2B%2B+%26+Java+%F0%9F%9A%80;Turning+Ideas+Into+Working+Projects+%F0%9F%94%A5" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-7dd3fc?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22d3ee?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-06b6d4?style=for-the-badge&labelColor=020617"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vishalnarkhede463-debug&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0f172a" />
-<img src="https://img.shields.io/github/followers/vishalnarkhede463-debug?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&labelColor=0f172a" />
+<img src="https://komarev.com/ghpvc/?username=vishalnarkhede463-debug&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS&labelColor=020617"/>
+<img src="https://img.shields.io/github/followers/vishalnarkhede463-debug?style=for-the-badge&color=22d3ee&labelColor=020617&label=FOLLOWERS"/>
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Computer Science student** and an aspiring **Frontend Web Developer**, currently building my foundations in **Python, C, and C++** while designing clean, visually engaging interfaces with **HTML & CSS**. I enjoy experimenting with UI effects and turning small ideas into working projects — you can follow my build-in-public journey on Instagram [@jerry_boy_658](https://www.instagram.com/jerry_boy_658).
+Hi! I'm **Vishal**, a Computer Science student and aspiring **Frontend Web Developer**.
 
-```ts
+I enjoy creating **modern, responsive and visually engaging websites** using HTML and CSS while continuously strengthening my programming fundamentals.
+
+I'm currently exploring:
+
+* 🌐 Frontend Web Development
+* 🎨 Modern UI & Interactive Designs
+* 🐍 Python
+* ⚙️ C & C++
+* ☕ Java
+* 💻 Git & GitHub
+* 🚀 Real-world software projects
+
+I like learning by building projects rather than only studying theory.
+
+```javascript
 const vishal = {
-  role: "CS Student | Frontend Web Developer",
-  languages: ["Python", "C", "C++", "Java", "HTML", "CSS"],
-  frontend: ["HTML", "CSS"],
-  launchedProjects: ["css-image-effects", "HTML-Notes"],
-  certifications: ["Python", "C", ,"HTML", "CSS ],
-  currentFocus: "Strengthening core programming + frontend fundamentals",
-  openTo: "Frontend Developer Roles · Internships · Collaborations"
-} as const;
+    name: "Vishal",
+    role: "CS Student & Frontend Developer",
+
+    languages: [
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "HTML",
+        "CSS"
+    ],
+
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
+
+    currentlyLearning: [
+        "Advanced Frontend Development",
+        "JavaScript",
+        "Full-Stack Development"
+    ],
+
+    interests: [
+        "Web Development",
+        "UI Design",
+        "Programming",
+        "Technology"
+    ],
+
+    openTo: [
+        "Internships",
+        "Frontend Opportunities",
+        "Collaborations",
+        "Interesting Projects"
+    ]
+};
 ```
 
-<br/>
+---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🖼️ css-image-effects
-A hands-on project exploring how to build a **multi-photo frame layout** using pure HTML & CSS.
+## 🏛️ Saksham Setu
 
-[![css-image-effects](https://github-readme-stats.vercel.app/api/pin/?username=vishalnarkhede463-debug&repo=css-image-effects&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/vishalnarkhede463-debug/css-image-effects)
+A web-based platform focused on connecting **students, skills, opportunities and organizations** through a modern digital interface.
 
-| Layer | Technology |
-|:--|:--|
-| Frontend | HTML, CSS |
+### ✨ Highlights
 
-**🔗 [View Code](https://github.com/vishalnarkhede463-debug/css-image-effects)**
+* 👨‍🎓 Student profiles
+* 💼 Opportunities
+* 📜 Certificates
+* 🔎 Skill-based discovery
+* 🏢 Employer features
+* 📊 Digital profile system
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git" />
+
+<br/><br/>
+
+<a href="https://github.com/vishalnarkhede463-debug/SakshamSetu">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📘 HTML-Notes
-A complete set of **HTML notes and practice projects**, documenting my frontend learning journey.
+## 🖼️ CSS Image Effects
 
-[![HTML-Notes](https://github-readme-stats.vercel.app/api/pin/?username=vishalnarkhede463-debug&repo=HTML-Notes&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/vishalnarkhede463-debug/HTML-Notes)
+A frontend project exploring **creative image layouts and CSS effects** using pure HTML and CSS.
 
-| Layer | Technology |
-|:--|:--|
-| Frontend | HTML |
+### ✨ Highlights
 
-**🔗 [View Code](https://github.com/vishalnarkhede463-debug/HTML-Notes)**
+* 🎨 CSS effects
+* 🖼️ Multi-image layouts
+* 📐 Responsive structure
+* 💡 Frontend practice
+* ✨ UI experimentation
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,c,cpp" />
-
-<br/>
-
-**Frontend**
+**Tech Stack**
 
 <img src="https://skillicons.dev/icons?i=html,css" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishalnarkhede463-debug&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnarkhede463-debug&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=vishalnarkhede463-debug&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&hide_border=false" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishalnarkhede463-debug&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalnarkhede463-debug&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.instagram.com/jerry_boy_658" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@jerry_boy_658-7dd3fc?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0f172a" />
+<a href="https://github.com/vishalnarkhede463-debug/css-image-effects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📘 HTML Notes
+
+A collection of HTML learning material, examples and practice work created while building frontend fundamentals.
+
+### ✨ Includes
+
+* HTML concepts
+* Examples
+* Practice files
+* Learning notes
+* Frontend fundamentals
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=html" />
+
+<br/><br/>
+
+<a href="https://github.com/vishalnarkhede463-debug/HTML-Notes">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 CyberVishuCodex
+
+My personal web development portfolio focused on **modern UI, animations and interactive frontend experiences**.
+
+### ✨ Highlights
+
+* ⚡ Animated UI
+* 🎨 Modern dark interface
+* 🧩 Multiple pages
+* 💻 Frontend projects
+* 🚀 Personal portfolio
+
+**Focus**
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</td>
+
+</tr>
+</table>
+
 </div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+
+<br/><br/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br/><br/>
+
+### 🔧 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishalnarkhede463-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnarkhede463-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=vishalnarkhede463-debug&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishalnarkhede463-debug&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalnarkhede463-debug&bg_color=020617&color=22d3ee&line=06b6d4&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                  🚀 CURRENT ROADMAP                      │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  ████████████████████░░░░  Frontend Development         │
+│  █████████████████░░░░░░░  JavaScript                   │
+│  ███████████████░░░░░░░░░  Backend Development           │
+│  █████████████░░░░░░░░░░░  Full-Stack Development        │
+│  ███████████░░░░░░░░░░░░░  Problem Solving               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+### 🔥 What I'm Working On
+
+* Building real-world web applications
+* Improving frontend UI/UX
+* Learning JavaScript deeply
+* Exploring backend development
+* Strengthening programming fundamentals
+* Building projects for my developer portfolio
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/vishalnarkhede463-debug">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jerry_boy_658">
+<img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Let's%20Build%20Something%20Awesome-22d3ee?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Build. Learn. Improve. Repeat."*
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=130&section=footer" width="100%"/>
 
-<i>Thanks for stopping by — always up for a chat about code and collabs! 🚀</i>
 </div>
